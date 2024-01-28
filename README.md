@@ -60,4 +60,4 @@ https://github.com/GbPepega/TelegramBot/blob/main/TGBOT.V1.py.
 EULA, «TGBOT.V1»		         Номер лицензии______________________. 
 
 HTTP API ключ Telegram_____________________________________________
-![image](https://github.com/GbPepega/TelegramBot/assets/117930356/ece287a9-7334-4f49-8795-cdafb9570895)
+(https://github.com/GbPepega/TelegramBot/assets/117930356/ece287a9-7334-4f49-8795-cdafb9570895)
